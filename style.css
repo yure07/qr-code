@@ -1,0 +1,16 @@
+   html, section, footer, body{
+    background: #dcdcdc;
+   }
+
+    .attribution {
+     font-size: 15px; text-align: center; 
+    }
+    
+    .attribution a 
+    { color: hsl(228, 45%, 44%); }
+
+
+  footer{
+    padding-top: 60px;
+
+  }
